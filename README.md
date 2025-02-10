@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Diante830
-- 👀 I’m interested in - Gaming 
+- 🕹️ I’m interested in - Gaming 
 - 🌱 I’m currently learning - Coding 
-- 💞️ I’m looking to collaborate on - Web Design 
-- 😄 Pronouns: - She/Her
+- 💻 I’m looking to collaborate on - Web Design 
+- 👍🏾 Pronouns: - She/Her
 
 
 <!---
