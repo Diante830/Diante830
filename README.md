@@ -1,3 +1,6 @@
+![image alt](https://github.com/Diante830/Diante830/blob/8180cb5ee80e49662c0b195d569b947397689c21/behance%20banner2%20copy.png)
+![image alt](https://github.com/Diante830/Diante830/blob/0d8c201bcc76c16b69db32a200512348d7cc4fae/DianteBanner.png)
+
 👋 Hi, I’m @Diante830
 
 🌱 Currently Learning: Coding!
