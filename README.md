@@ -1,6 +1,6 @@
 ![image alt](https://github.com/Diante830/Diante830/blob/0d8c201bcc76c16b69db32a200512348d7cc4fae/DianteBanner.png)
 
-👋 Hi, I’m @Diante830
+👋 Hi, I’m Diante H.M
 
 🌱 Currently Learning: Coding!
 
