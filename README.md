@@ -1,12 +1,10 @@
-![image alt](https://github.com/Diante830/Diante830/blob/0d8c201bcc76c16b69db32a200512348d7cc4fae/DianteBanner.png)
+Hi, I’m Diante H.M
 
-👋 Hi, I’m Diante H.M
+Currently Learning: Coding
 
-🌱 Currently Learning: Coding
+Looking to Collaborate On: Web Design & Graphic Design 
 
-💻 Looking to Collaborate On: Web Design & Graphic Design 
-
-👍🏾 Pronouns: She/Her
+Pronouns: She/Her
 
 ## About Me
 Hello, I’m a designer with a creative background in Web Development, UX Design, and Graphic Design. I’m proficient in:
