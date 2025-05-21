@@ -1,3 +1,5 @@
+![LinkedIn Banner](https://i.ibb.co/zhJhgVnX/linkedinbanner4.png)
+
 Hi, I’m Diante H.M
 
 Currently Learning: Coding
