@@ -1,4 +1,4 @@
-![LinkedIn Banner](https://ibb.co/bjHSH4Pf)
+![LinkedIn Banner](https://i.ibb.co/9mwFwxNM/Banner-without-Blur-Highlights.png)
 
 Hi, I’m Diante H.M
 
