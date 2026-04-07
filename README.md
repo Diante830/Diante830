@@ -26,7 +26,7 @@ Feel free to reach out to me through any of these platforms!
 - [LinkedIn](https://linkedin.com/in/diante-hazelle-mclean-51916b221)  
 - [Behance](https://www.behance.net/dhazelle)  
 - [Webflow Portfolio](https://diantes-design-portfolio.webflow.io/)
-- [Github Portfolio](https://diante830.github.io/DiantesDigitalPortfolio-/index.html)
+- [Data Portfolio](https://diantesdataportfolio.my.canva.site/)
 - [Email](mailto:dmclean830@gmail.com)
 
 
