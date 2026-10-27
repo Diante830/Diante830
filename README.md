@@ -26,7 +26,7 @@ I’m always open to learning new technologies and collaborating with others in 
 
 Feel free to reach out to me through any of these platforms!
 
-- [LinkedIn](https://linkedin.com/in/diante-hazelle-mclean-51916b221)  
+- [LinkedIn](www.linkedin.com/in/diante-hazelle-mclean)  
 - [Behance](https://www.behance.net/dhazelle)  
 - [Webflow Portfolio](https://diantes-design-portfolio.webflow.io/)
 - [Data Portfolio](https://diantesdataportfolio.my.canva.site/)
